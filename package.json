@@ -1,0 +1,26 @@
+{
+  "name": "apicodpos",
+  "version": "1.0.0",
+  "description": "Codigos Postales de Mexico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvarez0128/apiCodPos.git"
+  },
+  "keywords": [
+    "cp"
+  ],
+  "author": "C3S4R_ALV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alvarez0128/apiCodPos/issues"
+  },
+  "homepage": "https://github.com/Alvarez0128/apiCodPos#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "xml2js": "^0.6.2"
+  }
+}
